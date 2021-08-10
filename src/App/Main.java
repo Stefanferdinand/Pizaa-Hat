@@ -10,7 +10,7 @@ import java.io.File;
 
 public class Main implements Runnable{
 
-	File saveFile = new File("src\\save\\playerfile.txt");
+	File saveFile = new File("src\\App\\playerfile.txt");
 	
 	// our attribute
 	public int pizzaCount = 0;
